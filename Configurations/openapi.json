@@ -1,0 +1,14 @@
+﻿{
+  "SwaggerSettings": {
+    "Enable": true,
+    "Title": "Clean Architecture Application",
+    "Version": "1.0.0",
+    "Description": "Clean Architecture for WebApi built with Multitenancy Support.",
+    "ContactName": "Anmol Aggarwal",
+    "ContactEmail": "anmolaggarwal007@gmail.com",
+    "ContactUrl": "https://www.linkedin.com/in/anmol-aggarwal21/",
+    "License": true,
+    "LicenseName": "MIT License",
+    "LicenseUrl": ""
+  }
+}

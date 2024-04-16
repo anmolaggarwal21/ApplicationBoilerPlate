@@ -1,0 +1,6 @@
+{
+  "DatabaseSettings": {
+    "DBProvider": "mssql",
+    "ConnectionString": "server=DESKTOP-JTN6COS\\SQLEXPRESS;database=clinicbillingpersonal;trusted_connection=true;trustServerCertificate=true"
+  }
+}

@@ -1,0 +1,10 @@
+﻿{
+  "MailSettings": {
+    "DisplayName": "Ola Hermann",
+    "From": "anmol@clinic.net",
+    "Host": "smtp.ethereal.email",
+    "Password": "z19ek1DSjgQSRT13b1",
+    "Port": 587,
+    "UserName": "ola.hermann50@ethereal.email"
+  }
+}
